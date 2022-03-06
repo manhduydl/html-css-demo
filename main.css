@@ -1,3 +1,11 @@
 h1 {
     color: red;
 }
+
+.red-heading {
+    color: red;
+}
+
+.first-div > p {
+    color: red;
+}
